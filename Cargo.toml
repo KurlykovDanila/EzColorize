@@ -6,6 +6,9 @@ description = "Library to easily change the color of output text"
 license = "MIT OR Apache-2.0"
 keywords = ["text", "color", "colorize", "console", "output"]
 categories = ["command-line-interface"]
+repository = "https://github.com/KurlykovDanila/EzColorize"
+readme = "README.md"
+homepage = "https://github.com/KurlykovDanila"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
