@@ -1,0 +1,12 @@
+[package]
+name = "ez_colorize"
+version = "0.1.0"
+edition = "2021"
+description = "Library to easily change the color of output text"
+license = "MIT OR Apache-2.0"
+keywords = ["text", "color", "colorize", "console", "output"]
+categories = ["command-line-interface"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
